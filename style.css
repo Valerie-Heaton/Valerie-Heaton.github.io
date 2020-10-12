@@ -1,7 +1,16 @@
 p {
     color:#00FFFF;
 }
-h3, h2,h3 {
+
+h1 {
+    color:#00FFFF;
+}
+
+h2 {
    color: #fffdd0;
+}
+
+h3 {
+    color: #fffdd0; 
 }
 

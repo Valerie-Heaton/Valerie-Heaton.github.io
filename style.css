@@ -1,16 +1,20 @@
 p {
-    color:#00FFFF;
+    color:#00008B;
 }
 
 h1 {
-    color:#00FFFF;
+    color: #00008B;
 }
 
 h2 {
-   color: #fffdd0;
+   color: #00008B;
 }
 
 h3 {
-    color: #fffdd0; 
+    color: #00008B; 
+}
+
+body{
+    background-color: #fffdd0;
 }
 

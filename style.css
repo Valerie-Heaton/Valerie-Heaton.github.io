@@ -19,3 +19,7 @@ body{
     background-color: #fffdd0;
 }
 
+img {
+    border: 5px inset  #fffdd0;
+}
+
